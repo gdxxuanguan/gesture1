@@ -1,0 +1,4 @@
+repository "gesture1@tj_yanami_anna@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
